@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ivan-api Maven Webapp"
+  id="myeclipse.1493085039052"
+  context-root="/ivan-api"
+  j2ee-spec="1.7"
+  archive="ivan-api Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
